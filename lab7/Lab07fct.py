@@ -20,7 +20,6 @@
 
 # In[1]:
 
-# TODO
 from lab7.LPTester import *
 from lab6.Lab05 import *
 
