@@ -1,0 +1,23 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/.gitignore
+.idea/Laborator.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/other.xml
+.idea/vcs.xml
+.ipynb_checkpoints/Lab04-MCTS-Skel-checkpoint.ipynb
+Lab04-MCTS.ipynb
+lab5/__pycache__/
+lab6/__pycache__/
+python_learn.py
+lab7/__pycache__/
+Lab10-GraphPlan-Skel.ipynb
+lab5/__pycache__/
+lab9/.ipynb_checkpoints/
+lab10/
+lab11/
+lab9/Lab09-VariableElimination-Skel-Py36.ipynb
+lab9/Lab09-VariableElimination-Skel.ipynb
+lab9/Lab09-VariableElimination__small_example.pdf
